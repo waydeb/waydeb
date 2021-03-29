@@ -18,10 +18,9 @@ i write the AlphaX discord bot, as the head dev, and owner of alphax there is mo
 </p>
 
 <hr>
-- ✉️ wayde@alphaxdev.xyz
 
+- ✉️ wayde@alphaxdev.xyz | wayde@prism-client.tech
+- 
 - ✉️ wayde#1337
-
-- ✉️ webmaster issues for prism-client.tech to wayde@prism-client.tech with the subject starting with NOTICE:
 
 ![beans](https://ok.osuhow.wtf/ez.png)
