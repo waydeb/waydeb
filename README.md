@@ -7,7 +7,7 @@ i write the AlphaX discord bot, as the head dev, and owner of alphax there is mo
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydealphax&count_private=true&theme=synthwave&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waydealphax&layout=compact&theme=synthwave&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waydealphax&repo=PiBot&theme=synthwave" />
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=000ffff&style=flat" alt="waydealphax" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=00ffff&style=flat" alt="waydealphax" /> </p>
 </a>
 <hr>
 <h3 align="center">links</h3>
