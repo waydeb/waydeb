@@ -27,5 +27,5 @@ i also work on an open source bot called [pibot](https://github.com/waydealphax/
 how to contact me
 - ✉️ wayde@alphaxdev.xyz | wayde@prism-client.tech
 - 
-- ✉️ wayde#1337
+- ✉️ wayde#9778
 ![beans](https://ok.osuhow.wtf/ez.png)
