@@ -2,13 +2,15 @@
 
 g'day mate, **i'm wayde**, im from australia, i currently go to highschool and will be moving to college by next year.
 
-i write mainly in python, c# and java, i also write in c++, c although im not very good at either, html and css.
+i write mainly in python, c# and java, i also write in c++, c.
 
 i use windows and linux, what distro i use depends on what the job is.
 
 projects i work on;
 - osu
 - prism
+- osu-taiko
+
 
 my main project is my discord bot [alphax](https://bot.alphaxdev.xyz)
 i also work on an open source bot called [pibot](https://github.com/waydealphax/PiBot) which is made to interact with pihole.
