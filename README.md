@@ -4,7 +4,7 @@ g'day mate, **i'm wayde**, im from australia, i currently go to highschool and w
 
 i write mainly in python, c# and java, i also write in c++, c.
 
-i use windows and linux, what distro i use depends on what the job is.
+- 🛠 admin @ https://tixte.com
 
 projects i work on;
 - osu
@@ -21,7 +21,6 @@ i also work on an open source bot called [pibot](https://github.com/waydealphax/
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydealphax&count_private=true&theme=synthwave&show_icons=false" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waydealphax&layout=compact&theme=synthwave&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=waydealphax&repo=PiBot&theme=synthwave" />
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=00ffff&style=flat" alt="waydealphax" /> </p>
 </a>
 
