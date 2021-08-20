@@ -1,6 +1,6 @@
 ![beans](https://ok.osuhow.wtf/ez.png)
 
-g'day mate, **i'm wayde**, im from australia, i currently go to highschool and will be moving to college by next year.
+g'day mate, **i'm wayde**, im from australia, i currently go to highschool and will be moving to college by next year, and i write things
 
 i write mainly in python, c# and java, i also write in c++, c.
 
