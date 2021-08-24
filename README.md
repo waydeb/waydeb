@@ -10,7 +10,7 @@ projects i work on;
 - osu
 - prism
 - osu-taiko
-- oppy
+- [oppy](https://github.com/waydealphax/oppy)
 
 my main project is my discord bot [alphax](https://bot.alphaxdev.xyz)
 i also work on an open source bot called [pibot](https://github.com/waydealphax/PiBot) which is made to interact with pihole.
