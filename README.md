@@ -15,6 +15,9 @@ projects i work on;
 my main project is my discord bot [alphax](https://bot.alphaxdev.xyz)
 i also work on an open source bot called [pibot](https://github.com/waydealphax/PiBot) which is made to interact with pihole.
 
+**what im currently doing**
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/215734218632855552)](https://discord.com/users/215734218632855552)
 
 **stats**
 
