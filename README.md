@@ -1,4 +1,4 @@
-![beans](https://ok.osuhow.wtf/ez.png)
+![beans](https://cdn.alphaxdev.xyz/ez.png)
 
 g'day mate, **i'm wayde**, im from australia, i consider myself a fullstack dev, i currently go to highschool and will be moving to college by next year, and i write things
 
@@ -32,4 +32,4 @@ how to contact me
 - ✉️ wayde@alphaxdev.xyz
 - 
 - ✉️ wayde#9778
-![beans](https://ok.osuhow.wtf/ez.png)
+![beans](https://cdn.alphaxdev.xyz/ez.png)
