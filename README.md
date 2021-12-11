@@ -22,7 +22,7 @@ i also work on an open source bot called [pibot](https://github.com/waydealphax/
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydealphax&count_private=true&theme=synthwave&show_icons=false" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waydealphax&layout=compact&theme=synthwave&count_private=true&exclude_repo=me.wayde.codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waydealphax&layout=compact&theme=synthwave&count_private=true&exclude_repo=me.wayde.codes,Custom-StreamCompanion-Overlays" />
 </a>
 
 
