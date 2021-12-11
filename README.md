@@ -1,5 +1,3 @@
-![beans](https://cdn.alphaxdev.xyz/ez.png)
-
 g'day mate, **i'm wayde**, im from australia, i consider myself a fullstack dev, i currently go to highschool and will be moving to college by next year, and i write things
 
 i write mainly in python, c# and java, i also write in c++, c.
@@ -33,5 +31,4 @@ how to contact me
 - ✉️ wayde@alphaxdev.xyz
 - 
 - ✉️ wayde#9778
-![beans](https://cdn.alphaxdev.xyz/ez.png)
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=00ffff&style=flat" alt="waydealphax" /> </p>
