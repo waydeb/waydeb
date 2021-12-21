@@ -2,21 +2,32 @@ g'day mate, **i'm wayde**, im from australia, i consider myself a fullstack dev,
 
 i write mainly in python, c# and java, i also write in c++, c, and go.
 
-- 🛠 admin @ https://tixte.com
+_______
 
-projects i work on;
+**work**
+
+- 🛠  tixte team and coder for https://tixte.com
+- 💻  it
+- 🎶  lighting for music events
+
+_______
+
+**contact:**
+- discord; wayde#9778
+- email; wayde@alphaxdev.xyz
+
+_______
+
+i work on;
 
 - osu
 - prism
 - osu-taiko
 - [oppy](https://github.com/waydealphax/oppy)
 
-my main project is my discord bot [alphax](https://bot.alphaxdev.xyz)
-i also work on an open source bot called [pibot](https://github.com/waydealphax/PiBot) which is made to interact with pihole.
+i mainly work on [alphax](https://bot.alphaxdev.xyz
 
-**what im currently doing**
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/215734218632855552)](https://discord.com/users/215734218632855552)
+_______
 
 **stats**
 
@@ -26,9 +37,8 @@ i also work on an open source bot called [pibot](https://github.com/waydealphax/
 </a>
 
 
-how to contact me
+**what im currently doing**
 
-- ✉️ wayde@alphaxdev.xyz
-- 
-- ✉️ wayde#9778
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/215734218632855552)](https://discord.com/users/215734218632855552)
+
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=00ffff&style=flat" alt="waydealphax" /> </p>
