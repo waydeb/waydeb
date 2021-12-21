@@ -1,6 +1,6 @@
-g'day mate, **i'm wayde**, im from australia, i consider myself a fullstack dev, i currently go to highschool and will be moving to college by next year, and i write things
+g'day mate, **i'm wayde**, im from australia, i consider myself a fullstack dev, college student
 
-i write mainly in python, c# and java, i also write in c++, c.
+i write mainly in python, c# and java, i also write in c++, c, and go.
 
 - 🛠 admin @ https://tixte.com
 
