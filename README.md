@@ -25,7 +25,7 @@ i work on;
 - osu-taiko
 - [oppy](https://github.com/waydealphax/oppy)
 
-i mainly work on [alphax](https://bot.alphaxdev.xyz
+i mainly work on [alphax](https://bot.alphaxdev.xyz)
 
 _______
 
