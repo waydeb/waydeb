@@ -1,44 +1,53 @@
-g'day mate, **i'm wayde**, im from australia, i consider myself a fullstack dev, college student
+hey there! im **wayde**.  
+***i write things***
+-------
+🗺️- Australia
+🏢- college student studing IT, looking to work in IT after school. i do lighting for events in my spare time
+👨‍💻- python, go, html+css, js, c++, c#, java
+📤- wayde@alphaxdev.xyz
 
-i write mainly in python, c# and java, i also write in c++, c, and go.
+------------
+**what i do online**
 
-_______
-
-**work**
-
-- 🛠  tixte team and coder for https://tixte.com
-- 💻  it
-- 🎶  lighting for music events
-
-_______
-
-**contact:**
-- discord; wayde#9778
-- email; wayde@alphaxdev.xyz
-
-_______
-
-i work on;
-
-- osu
-- prism
-- osu-taiko
-- [oppy](https://github.com/waydealphax/oppy)
-
-i mainly work on [alphax](https://bot.alphaxdev.xyz)
-
-_______
-
-**stats**
+| service |  role 
+|--|--|
+| [osu](https://github.com/ppy/osu)  |  taiko |
+| [alphax](https://bot.alphaxdev.xyz) | owner and dev  |
+| [tixte](tixte.com) | writing code and management  |
+------------
+**my systems**
+| System | CPU, RAM, Boot | Role |
+|--|--|--|
+| Mircosoft Surface Laptop Go | i5,8GB,128GB + 2x 500GB Samsung T5 SSDs | Work/School Laptop
+| Asus X555LD | i5,12GB,1TB + 8TB Misc HDDs | Main Laptop
+------------
+**links**
+| Website | About |
+|--|--|
+| [reviews](https://reviews.wayde.me) | this is where i write reviews about products i own, i dont do it full time i do it when im bored |
+| [alphax](https://bot.alphaxdev.xyz) | my discord bot |
+| [tixte](https://tixte.com) | free file storage in the cloud |
+| [more info](https://me.wayde.codes) | more info about me with more links:tm: |
+------------
+**code stats**
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydealphax&count_private=true&theme=synthwave&show_icons=false" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waydealphax&layout=compact&theme=synthwave&count_private=true&exclude_repo=me.wayde.codes,Custom-StreamCompanion-Overlays" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydealphax&count_private=true&theme=synthwave&show_icons=false" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waydealphax&layout=compact&theme=synthwave&count_private=true&exclude_repo=me.wayde.codes,Custom-StreamCompanion-Overlays" />
 </a>
 
+------------
 
-**what im currently doing**
+**what am i currently upto?**
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/215734218632855552)](https://discord.com/users/215734218632855552)
 
+
+------------
+
+**how many times has my profile been viewed?**
+
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=00ffff&style=flat" alt="waydealphax" /> </p>
+ 
+
+
