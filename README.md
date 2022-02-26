@@ -19,6 +19,7 @@ hey there! im **wayde**.
 **my systems**
 | System | CPU, RAM, Boot | Role |
 |--|--|--|
+| Dell Optiplex {awaiting model} | i7,16GB,256GB SSD + 4TB HDDs (2x 1TB, 1x 2TB) | Main Work System
 | Mircosoft Surface Laptop Go | i5,8GB,128GB + 2x 500GB Samsung T5 SSDs | Work/School Laptop
 | Asus X555LD | i5,12GB,1TB + 8TB Misc HDDs | Main Laptop
 ------------
