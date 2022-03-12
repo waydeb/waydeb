@@ -1,5 +1,8 @@
 hey there! im **wayde**.  
 ***i write things***
+
+[![My Skills and what I do](https://skillicons.dev/icons?i=cs,bash,cloudflare,docker,dotnet,firebase,git,html,linux,mysql,nginx,py,vscode)](https://skillicons.dev)
+
 -------
 
 - 🗺️- Australia
