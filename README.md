@@ -7,7 +7,6 @@ hey there! im **wayde**.
 
 - 🗺️- Australia
 - 🏢- college student studing IT, looking to work in IT after school. i do lighting for events in my spare time
-- 👨‍💻- python, go, html+css, js, c++, c#, java
 - 📤- wayde@alphaxdev.xyz
 
 ------------
