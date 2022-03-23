@@ -33,6 +33,7 @@ hey there! im **wayde**.
 | [alphax](https://bot.alphaxdev.xyz) | my discord bot |
 | [tixte](https://tixte.com) | free file storage in the cloud |
 | [more info](https://me.wayde.codes) | more info about me with more links:tm: |
+| [reviews](https://reviews.wayde.codes) | where i do reviews |
 
 ------------
 **code stats**
