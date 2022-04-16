@@ -34,7 +34,7 @@ hey there! im **wayde**.
 | [tixte](https://tixte.com) | free file storage in the cloud |
 | [more info](https://me.wayde.codes) | more info about me with more links:tm: |
 | [reviews](https://reviews.wayde.codes) | where i do reviews |
-| [PGP Key[(https://raw.githubusercontent.com/waydealphax/waydealphax/main/wayde.asc) | pgp key |
+| [PGP Key](https://raw.githubusercontent.com/waydealphax/waydealphax/main/wayde.asc) | pgp key |
 
 ------------
 **code stats**
