@@ -8,6 +8,7 @@ hey there! im **wayde**.
 - 🗺️- Australia
 - 🏢- college student studying IT, looking to work in IT after school. i do lighting for events in my spare time
 - 📤- wayde@alphaxdev.xyz
+- 📤- wayde@tixte.com (Tixte, LLC. related emails only please :))
 
 ------------
 **what i mainly do online**
