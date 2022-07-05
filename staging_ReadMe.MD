@@ -1,5 +1,5 @@
 hey there! im **wayde**.  
-***i write things***
+***i write things*** i commited to deez
 -------
 
 - 🗺️- Australia
