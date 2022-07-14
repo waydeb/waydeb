@@ -15,7 +15,6 @@ hey there! im **wayde**.
 
 | service |  role 
 |--|--|
-| [alphax](https://bot.alphaxdev.xyz) | owner and dev  |
 | [tixte](tixte.com) | writing code and management  |
 
 ------------
@@ -24,6 +23,7 @@ hey there! im **wayde**.
 | System | CPU, RAM, Boot | Role |
 |--|--|--|
 | Dell Optiplex 7040 | i7,32GB,256GB SSD + 4TB HDDs (2x 1TB, 1x 2TB) | Main Work System
+| Lenovo Thinkcentre M70t | i7,32GB,256GB SSD * 2, 1TB HDD | Main System
 | Mircosoft Surface Laptop Go | i5,8GB,128GB + 2x 500GB Samsung T5 SSDs | Work/School Laptop
 
 ------------
