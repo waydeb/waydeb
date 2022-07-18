@@ -1,5 +1,6 @@
 hey there! im **wayde**.  
 ***i write things***
+and i now also most likely am building your pixel 2 roms if you're using crdroid!
 
 [![My Skills and what I do](https://skillicons.dev/icons?i=cs,bash,cloudflare,docker,dotnet,firebase,git,html,linux,mysql,nginx,py,vscode)](https://skillicons.dev)
 
