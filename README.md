@@ -12,7 +12,7 @@ languages im learning
 
 services and os' i know
 
-[![sandos i know](https://skillicons.dev/icons?i=docker,git,nginx,gcp,aws,cloudflare,firebase,linux,mysql,vscode,discord)](https://skillicons.dev)
+[![sandos i know](https://skillicons.dev/icons?i=docker,git,nginx,discord,gcp,aws,cloudflare,firebase,linux,mysql,vscode)](https://skillicons.dev)
 (and windows)
 
 -------
