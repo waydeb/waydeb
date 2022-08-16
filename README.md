@@ -2,6 +2,8 @@ hey there! im **wayde**.
 ***i write things***
 and i now also most likely am building your pixel 2 roms if you're using crdroid!
 
+https://wayde.tech
+
 languages i know 
 
 [![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,powershell,bash,py,java,kotlin)](https://skillicons.dev)
