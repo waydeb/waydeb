@@ -3,14 +3,12 @@ hey there! im **wayde**.
 and i now also most likely am building your pixel 2 roms if you're using crdroid!
 
 https://wayde.tech
+pgp keys at 
+https://wayde.tech/keys/
 
 languages i know and/or work with
 
-[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,powershell,bash,py,java,kotlin)](https://skillicons.dev)
-
-languages im learning 
-
-[![languages im learning](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,powershell,bash,py,java,kotlin,go)](https://skillicons.dev)
 
 services and os' i know
 
