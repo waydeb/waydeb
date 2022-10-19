@@ -1,6 +1,7 @@
 hey there! im **wayde**.  
 ***i write things***
-and i now also most likely am building your pixel 2 roms if you're using crdroid!
+
+if im not writing something, im typically doing some sort of security work and research, typically for my state government.
 
 https://wayde.tech
 pgp keys at 
