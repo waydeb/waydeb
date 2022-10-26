@@ -1,12 +1,17 @@
 hey there! im **wayde**.  
 ***i write things***
 
-if im not writing something, im typically doing some sort of security work and research, typically for my state government.
+if im not writing something, im typically doing some sort of security work or research
+
+i focus on networking and systems administration
 
 https://wayde.tech
+
 pgp keys at 
+
 https://wayde.tech/keys/
 
+------------
 languages i know and/or work with
 
 [![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,powershell,bash,py,java,kotlin,go)](https://skillicons.dev)
@@ -16,12 +21,20 @@ services and os' i know
 [![sandos i know](https://skillicons.dev/icons?i=docker,git,nginx,discord,gcp,aws,cloudflare,firebase,linux,mysql,vscode)](https://skillicons.dev)
 (and windows)
 
--------
+-----------
 
 - 🗺️- Australia
 - 🏢- college student studying IT, looking to work in IT after school. i do lighting for events in my spare time
 - 📤- wayde@alphaxdev.xyz
-- 📤- wayde@tixte.com (Tixte, LLC. related emails only please :))
+
+------------
+
+**my systems**
+| System | CPU, RAM, Storage | Role |
+|--|--|--|
+| Lenovo Thinkcentre M70t | i7, 32GB, 256GB Boot, 1TB Storage | Main System
+| Mircosoft Surface Laptop Go | i5, 8GB, 128GB| Work/School Laptop
+| HPE ProLiant DL380 G7 | 2x Xeon E5645s, 64GB, 128GB Boot + 2.3TB Storage | Primary Server
 
 ------------
 **what i mainly do online**
@@ -30,25 +43,7 @@ services and os' i know
 |--|--|
 | [tixte](tixte.com) | writing code and management  |
 
-------------
-
-**my systems**
-| System | CPU, RAM, Boot | Role |
-|--|--|--|
-| Dell Optiplex 7040 | i7,32GB,256GB SSD + 4TB HDDs (2x 1TB, 1x 2TB) | Main Work System
-| Lenovo Thinkcentre M70t | i7,32GB,256GB SSD * 2, 1TB HDD | Main System
-| Mircosoft Surface Laptop Go | i5,8GB,128GB + 2x 500GB Samsung T5 SSDs | Work/School Laptop
-
-------------
-
-**links**
-| Website | About |
-|--|--|
-| [alphax](https://bot.alphaxdev.xyz) | my discord bot |
-| [tixte](https://tixte.com) | free file storage in the cloud |
-| [PGP Key](https://raw.githubusercontent.com/waydealphax/waydealphax/main/wayde.asc) | pgp key |
-
-------------
+-----------
 **code stats**
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
