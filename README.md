@@ -32,8 +32,8 @@ services and os' i know
 **my systems**
 | System | CPU, RAM, Storage | Role |
 |--|--|--|
-| Lenovo Thinkcentre M70t | i7, 32GB, 256GB Boot, 1.256TB Storage | Main System
-| Dell Optiplex 7040 MT | i7, 32GB, 256GB Boot, 2TB Storage | Main System (Typically used for gaming)
+| Lenovo Thinkcentre M70t | i7, 32GB, 256GB Boot, 1.256TB | Main System
+| Dell Optiplex 7040 MT | i7, 32GB, 256GB Boot, 2TB | Main System (Typically used for gaming)
 | Mircosoft Surface Laptop Go | i5, 8GB, 256GB Boot| Work/School Laptop
 | HPE ProLiant DL380 G7 | 2x Xeon E5645s, 64GB, 256GB Boot + 2.3TB Storage | Primary Server
 
