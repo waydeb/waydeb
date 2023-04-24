@@ -1,5 +1,6 @@
-hey there! im **wayde**.  
+hey there! im **wayde** :3.  
 ***i write things***
+nyanyanya
 
 if im not writing something, im typically doing some sort of security work or research
 
@@ -14,7 +15,7 @@ https://wayde.tech/keys/
 ------------
 languages i know and/or work with
 
-[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,powershell,bash,py,java,kotlin,go)](https://skillicons.dev)
+[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,rust,powershell,bash,py,java,kotlin,go)](https://skillicons.dev)
 
 services and os' i know
 
@@ -24,7 +25,7 @@ services and os' i know
 -----------
 
 - 🗺️- Australia
-- 🏢- college student studying IT, looking to work in IT after school. i do lighting for events in my spare time
+- 🏢- Highest level IT Student, part-time IT, Network and Systems Administration, i do lighting for events in my spare time
 - 📤- wayde@alphaxdev.xyz
 
 ------------
@@ -32,8 +33,9 @@ services and os' i know
 **my systems**
 | System | CPU, RAM, Storage | Role |
 |--|--|--|
+| Dell Optiplex 7040 MT | i7, 32GB, 1TB Boot, 5TB | Main System
 | Lenovo Thinkcentre M70t | i7, 32GB, 256GB Boot, 1.256TB | Main System
-| Dell Optiplex 7040 MT | i7, 32GB, 256GB Boot, 2TB | Main System (Typically used for gaming)
+| Custom Build | i7XE, 32GB, 128GB RAID 1 Boot, 18TB | Gaming and Work System
 | Mircosoft Surface Laptop Go | i5, 8GB, 256GB Boot| Work/School Laptop
 | HPE ProLiant DL380 G7 | 2x Xeon E5645s, 64GB, 256GB Boot + 2.3TB Storage | Primary Server
 
