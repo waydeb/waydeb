@@ -15,11 +15,11 @@ https://wayde.tech/keys/
 ------------
 languages i know and/or work with
 
-[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,rust,powershell,bash,py,java,kotlin,go)](https://skillicons.dev)
+[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,rust,powershell,bash,py,java,kotlin,go,elixir)](https://skillicons.dev)
 
 services and os' i know
 
-[![sandos i know](https://skillicons.dev/icons?i=docker,git,nginx,discord,gcp,aws,cloudflare,firebase,linux,mysql,vscode)](https://skillicons.dev)
+[![sandos i know](https://skillicons.dev/icons?i=docker,git,nginx,discord,gcp,aws,cloudflare,firebase,linux,bsd,linkedin,mastodon,mysql,vscode,raspberrypi,redis,twitter,workers)](https://skillicons.dev)
 (and windows)
 
 -----------
