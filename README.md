@@ -1,6 +1,6 @@
-hey there! im **wayde** :3.  
+hey there! im **wayde**.  
 ***i write things***
-nyanyanya
+
 
 if im not writing something, im typically doing some sort of security work or research
 
