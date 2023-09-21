@@ -15,7 +15,7 @@ https://wayde.tech/keys/
 ------------
 languages i know and/or work with
 
-[![languages i know](https://skillicons.dev/icons?i=cs,dotnet,html,c,cpp,rust,powershell,bash,py,java,kotlin,go,elixir)](https://skillicons.dev)
+[![languages i know](https://skillicons.dev/icons?i=html,c,cpp,powershell,bash,py,go,perl,elixir)](https://skillicons.dev)
 
 services and os' i know
 
@@ -35,8 +35,8 @@ services and os' i know
 |--|--|--|
 | Dell Optiplex 7040 MT | i7, 32GB, 1TB Boot, 5TB | Main System
 | Lenovo Thinkcentre M70t | i7, 32GB, 256GB Boot, 1.256TB | Main System
-| Custom Build | i7XE, 32GB, 128GB RAID 1 Boot, 18TB | Gaming and Work System
-| Mircosoft Surface Laptop Go | i5, 8GB, 256GB Boot| Work/School Laptop
+| Mircosoft Surface Laptop Go | i5, 8GB, 256GB Boot| Personal Laptop
+| HPE ProLiant DL360 G9 | 2x Xeon E5-2630 v3, 64GB, 256GB Boot + 1.3TB Storage (RAID 60) | Primary Server
 | HPE ProLiant DL380 G7 | 2x Xeon E5645s, 64GB, 256GB Boot + 2.3TB Storage | Primary Server
 
 ------------
