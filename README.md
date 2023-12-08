@@ -1,16 +1,11 @@
 hey there! im **wayde**.  
 ***i write things***
 
-
-if im not writing something, im typically doing some sort of security work or research
-
+i work full time at a telco, https://launtel.net.au
 i focus on networking and systems administration
 
 https://wayde.tech
 
-pgp keys at 
-
-https://wayde.tech/keys/
 
 ------------
 languages i know and/or work with
