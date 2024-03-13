@@ -2,7 +2,6 @@ hey there! im **wayde**.
 ***i write things***
 
 i work full time at a telco, https://launtel.net.au
-i focus on networking and systems administration
 
 https://wayde.tech
 
