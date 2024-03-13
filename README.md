@@ -9,7 +9,7 @@ https://wayde.tech
 ------------
 languages i know and/or work with
 
-[![languages i know](https://skillicons.dev/icons?i=html,c,cpp,powershell,bash,py,go,perl,elixir)](https://skillicons.dev)
+[![languages i know](https://skillicons.dev/icons?i=html,cpp,powershell,bash,py,go,perl,elixir)](https://skillicons.dev)
 
 services and os' i know
 
