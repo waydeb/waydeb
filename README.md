@@ -32,6 +32,7 @@ services and os' i know
 | Lenovo Thinkcentre M70t | i7, 32GB, 256GB Boot, 1.256TB | Main System
 | Mircosoft Surface Laptop Go | i5, 8GB, 256GB Boot| Personal Laptop
 | HPE ProLiant DL360 G9 | 2x Xeon E5-2630 v3, 64GB, 256GB Boot + 1.3TB Storage (RAID 60) | Primary Server
+| HPE ProLiant DL360 G9 | 2x Xeon E5-2630 v3, 64GB, 256GB Boot + 1.3TB Storage (RAID 60) | Proxmox Server
 | HPE ProLiant DL380 G7 | 2x Xeon E5645s, 64GB, 256GB Boot + 2.3TB Storage | Primary Server
 
 ------------
@@ -45,12 +46,12 @@ services and os' i know
 **code stats**
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydealphax&count_private=true&theme=synthwave&show_icons=false" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waydeb&count_private=true&theme=synthwave&show_icons=false" /> 
 </a>
 
 ------------
 
 **how many times has my profile been viewed?**
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydealphax&label=Profile%20views&color=00ffff&style=flat" alt="waydealphax" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydebx&label=Profile%20views&color=00ffff&style=flat" alt="waydeb" /> </p>
  
