@@ -19,7 +19,6 @@ services and os' i know
 -----------
 
 - 🗺️- Australia
-- 🏢- Highest level IT Student, part-time IT, Network and Systems Administration, i do lighting for events in my spare time
 - 📤- wayde@alphaxdev.xyz
 
 ------------
