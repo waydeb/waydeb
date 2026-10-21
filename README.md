@@ -1,16 +1,10 @@
-hey there! im **wayde**.  
+hey there! im **arwen**.  
 ***i write things***
 
 i work full time at a telco, https://launtel.net.au
 
-https://wayde.tech
-
 -----------
-- 📤- wayde@femboy.au
+- 📤- arwen@arwen.net.au
 
 ------------
-
-**how many times has my profile been viewed?**
-
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=waydebx&label=Profile%20views&color=00ffff&style=flat" alt="waydeb" /> </p>
  
